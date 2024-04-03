@@ -4,7 +4,7 @@ import os
 import sys
 
 
-def mainnnnnnnnnnZ():
+def mainnnnnnnnnnZzz():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djangoProject1.settings')
     try:
